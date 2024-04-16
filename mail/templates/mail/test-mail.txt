@@ -1,0 +1,3 @@
+Boas vindas
+
+Olá, {{ name }}! Seja bem-vindo ao nosso site.
